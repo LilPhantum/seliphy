@@ -278,6 +278,12 @@ button {
   color: #e88aa1;
 }
 
+@media (max-width: 630px) {
+  .logo h2 {
+    font-size: 28px;
+  }
+}
+
 
 .nav ul a {
   color: #000000;
@@ -388,7 +394,7 @@ button {
 .hero-txt button {
   color: white;
   font-weight: 600;
-  margin-top: 20px;
+  margin-top: 15px;
   box-shadow: 0px 5px 10px #f3a6b3;
   font-family: var(--font-sans);
   font-size: 17px;
