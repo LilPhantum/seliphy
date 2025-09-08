@@ -404,6 +404,10 @@ button {
   background: linear-gradient(135deg, var(--pink-main), var(--pink-deep));
 }
 
+.hero h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .text {
   font-size: 1.2rem
 }
